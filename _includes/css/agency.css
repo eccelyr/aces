@@ -797,7 +797,7 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
