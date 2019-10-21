@@ -3,9 +3,9 @@ title: Curso para ninos
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-10-19
 img: aces1.jpg
-thumbnail: escape-thumbnail.png
+thumbnail: aces1-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
