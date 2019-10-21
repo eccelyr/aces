@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 19-oct-2019 – 31-oct-2019
 img: aces1.jpg
-thumbnail: dreams-thumbnail.png
+thumbnail: aces1-thumbnail.jpg
 alt: image-alt
 project-date: Octubre 2019
 client: Start Bootstrap
