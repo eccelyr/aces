@@ -16,9 +16,9 @@ $phone = $_POST['phone'];
 $message = $_POST['message'];
 
 // Create the email and send the message
-$to = 'jerome.lachaud@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+$to = 'publicidad.aces@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 $email_subject = "Contacto:  $name";
-$email_body = "Has recibido un nuevo mensaje de ACES Academic English Solutions.\n\n"."Aqui estan los detalles:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
+$email_body = "Has recibido un pedido de cotizacion.\n\n"."Aqui estan los detalles:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "From: <publicidad.aces@gmail.com>\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
