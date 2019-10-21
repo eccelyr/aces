@@ -1594,6 +1594,10 @@
 .fa-newspaper-o:before {
   content: "\f1ea";
 }
+
+.fa-chalkboard-teacher:before {
+  content: "\f51c";
+}
 .fa-wifi:before {
   content: "\f1eb";
 }
