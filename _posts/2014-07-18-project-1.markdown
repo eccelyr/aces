@@ -3,7 +3,7 @@ title: 50% CURSO DE INGLÉS PARA NIÑOS
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 19-oct-2019 – 31-oct-2019
+date: 19/10/2019
 img: aces1.jpg
 thumbnail: aces1-thumbnail.jpg
 alt: image-alt
