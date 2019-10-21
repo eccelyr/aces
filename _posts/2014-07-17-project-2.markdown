@@ -1,6 +1,6 @@
 ---
-title: Curso para ninos
-subtitle: DEJA QUE TUS HIJOS CUMPLAN SUS SUEÑOS
+title: CURSO DE INGLÉS PARA NIÑOS
+subtitle: DEJA QUE TUS HIJOS CUMPLAN SUS SUEÑOSEn ACES Academic Englsih Solution te ayudamos a cumplirlos.
 layout: default
 modal-id: 2
 date: 2019-10-19
