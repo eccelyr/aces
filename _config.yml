@@ -12,7 +12,7 @@ people:
 - name: Andrés Felipe Pérez Martínez
 
   pic: 1
-  position: Lead Designer
+  position:
   social:
     - title: twitter
       url: #
@@ -24,7 +24,7 @@ people:
 - name: DANIEL CELY RODRIGUEZ
 
   pic: 4
-  position: Lead Marketer
+  position:
   social:
     - title: twitter
       url: #
@@ -36,7 +36,7 @@ people:
 - name: María Camila Barbosa Gómez
 
   pic: 2
-  position: Lead Developer
+  position: 
   social:
     - title: twitter
       url: #
@@ -48,7 +48,7 @@ people:
 
 
   pic: 3
-  position: Lead Developer
+  position:
   social:
     - title: twitter
       url: #
