@@ -169,7 +169,7 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
-
+/*aqui empieza la barra navegacion */
 .navbar-default {
     border-color: transparent;
     background-color: #222;
@@ -211,9 +211,9 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
-    -webkit-transition: all ease .35s;
-    -moz-transition: all ease .35s;
-    transition: all ease .35s;
+    -webkit-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    transition: all ease .3s;
 }
 
 .navbar-default .nav li a:hover,
