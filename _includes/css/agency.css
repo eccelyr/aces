@@ -211,9 +211,9 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
-    -webkit-transition: all ease 0s;
-    -moz-transition: all ease 0s;
-    transition: all ease 0s;
+    -webkit-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    transition: all ease .3s;
 }
 
 .navbar-default .nav li a:hover,
@@ -239,16 +239,16 @@ fieldset[disabled] .btn-xl.active {
         padding: 25px 0;
         border: 0;
         background-color: transparent;
-        -webkit-transition: padding 0s;
-        -moz-transition: padding 0s;
-        transition: padding .0s;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
     }
 
     .navbar-default .navbar-brand {
         font-size: 2em;
-        -webkit-transition: all 0s;
-        -moz-transition: all 0s;
-        transition: all 0s;
+        -webkit-transition: all .3s;
+        -moz-transition: all 0.3s;
+        transition: all .3s;
     }
 
     .navbar-default .navbar-nav>.active>a {
