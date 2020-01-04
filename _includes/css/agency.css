@@ -211,9 +211,9 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
-    -webkit-transition: all ease .35s;
-    -moz-transition: all ease .35s;
-    transition: all ease .35s;
+    -webkit-transition: all ease 0s;
+    -moz-transition: all ease 0s;
+    transition: all ease 0s;
 }
 
 .navbar-default .nav li a:hover,
@@ -246,9 +246,9 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default .navbar-brand {
         font-size: 2em;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
+        -webkit-transition: all 0s;
+        -moz-transition: all 0s;
+        transition: all 0s;
     }
 
     .navbar-default .navbar-nav>.active>a {
